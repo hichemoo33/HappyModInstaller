@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>HappyMod</string>
+			<key>PayloadDescription</key>
+			<string>Adds a HappyMod icon to the home screen.</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.happymod.webclip.181753f7-8bea-4eb1-bf74-8d71904f80c0</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>0914fd3e-45bb-4a27-8db5-31b223e738da</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>TargetApplicationBundleIdentifier</key>
+			<string></string>
+			<key>URL</key>
+			<string>about:blank</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Required to install HappyMod on iOS.</string>
+	<key>PayloadDisplayName</key>
+	<string>HappyMod Installer</string>
+	<key>PayloadIdentifier</key>
+	<string>com.happymod.installer.fe8b13d1-b46e-49fd-adbd-446426fd9983</string>
+	<key>PayloadOrganization</key>
+	<string>HappyMod Team</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ff378b55-74af-43d5-9b0b-5cca68dd9e8a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
